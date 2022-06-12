@@ -1,2 +1,2 @@
 requests
-openapi_core
+git+git://github.com/DarthMikke/openapi-core.git#egg=openapi_core
